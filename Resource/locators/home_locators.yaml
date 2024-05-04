@@ -1,0 +1,3 @@
+mnu_cachorro: //span[@class='menu-departments-item-text'][contains(.,'Cachorro')]
+mnu_gato: //span[@class='menu-departments-item-text'][contains(.,'Gato')]
+mnu_recompra: //span[@class='menu-departments-item-text'][contains(.,'Recompra')]

@@ -1,0 +1,2 @@
+mnu_promo: //span[@class='menu-departments-item-text'][contains(.,'Promoções')]
+mnu_all: //strong[contains(.,'Ver todas as promoções')]

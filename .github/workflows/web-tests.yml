@@ -6,4 +6,4 @@ jobs:
     test:
         runs-on: ubuntu-20.04
         steps:
-            - run: echo "Web Test no github actions!"
+            - run: echo "Web Test no github!"
